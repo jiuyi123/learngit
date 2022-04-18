@@ -2,3 +2,4 @@ t1
 Git has a mutable index called stage.
 Git tracks changes.
 2modify
+我爱git
